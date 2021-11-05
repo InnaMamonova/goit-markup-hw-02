@@ -85,6 +85,7 @@ ul {
 }
 /* Site Advantages */
 .advantages-title {
+  font-size: inherit;
   font-weight: bold;
   line-height: 1.14;
   text-transform: uppercase;
