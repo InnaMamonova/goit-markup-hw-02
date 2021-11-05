@@ -1,5 +1,5 @@
 body {
-  font-family: roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #757575;
   background-color: #ffffff;
 }
@@ -67,6 +67,7 @@ ul {
   color: #ffffff;
 }
 .hero-button {
+  font-family: inherit;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.86;
@@ -155,6 +156,7 @@ ul {
 }
 /* Site's Portfolio */
 .portfolio-filter {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
